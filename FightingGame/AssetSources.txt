@@ -1,0 +1,1 @@
+Mannequinn, Unreal engine 4 Mannequinn. Though I downloaded it from a separeate source, the source I got it from just used the extracted unreal engine asset.
