@@ -1,0 +1,1 @@
+Experimental project to see if I could create an implementation of pointers for a Card Game simulator I wanted to build from the ground up in C++ and OpenGL. Ended up not using this in the project since I found I could largely avoid using pointers in that project.
