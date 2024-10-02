@@ -1,0 +1,1 @@
+Prototype for a castle siege game. Press Enter, then type "Hit X Y", with X being the x coordinate, and Y being the Y coordinate. Written in c++ using OpenGL for the graphics.

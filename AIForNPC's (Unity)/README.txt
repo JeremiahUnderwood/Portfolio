@@ -1,0 +1,1 @@
+Basic AI system for Unity with documentation. Not a visual project, but a useful package to import. Initially built for a college project, so some of the documentation may not translate completely to what is in the package.
