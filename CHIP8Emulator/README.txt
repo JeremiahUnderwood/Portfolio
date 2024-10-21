@@ -1,0 +1,1 @@
+An emulator for the CHIP8 processor. Runs at a set 500 hz. In order to change the program you have to change the string that reads the file to use, so currently only plays PONG, but if you want to recompile it to run something else it should be able to.
