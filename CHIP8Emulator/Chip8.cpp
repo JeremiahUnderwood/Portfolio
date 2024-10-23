@@ -44,6 +44,19 @@ namespace CHIP8{
 		{
 			memory[0x50 + i] = fontset[i];
 		}
+		for (unsigned int i = 0; i < 16; i++)
+		{
+			registers[i] = 0u;
+		}
+		for (unsigned int i = 0; i < 64 * 32; i++)
+		{
+			display[i] = 0u;
+		}
+		indexRegister = 0;
+		stackPointer = 0u;
+		delayTimer = 0u;
+		soundTimer = 0u;
+		opcode = 0u;
 		return 0;
 	}
 	

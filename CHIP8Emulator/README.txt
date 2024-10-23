@@ -1,1 +1,1 @@
-An emulator for the CHIP8 processor. Runs at a set 500 hz. In order to change the program you have to change the string that reads the file to use, so currently only plays PONG, but if you want to recompile it to run something else it should be able to.
+New version of my old chip 8 emulator. It works the same under the hood, but instead of GLUT, I used base openGL functions with the windows API. As a result, you can now use the file button to load a file into the emulator! May freeze for a bit while you do so, and don't load a file with a path of more than 500 characters.
