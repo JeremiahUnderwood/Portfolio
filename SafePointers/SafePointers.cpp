@@ -38,7 +38,7 @@ class LinkedList{
 		}
 		
 		int Remove(int itr){
-			//head.next->data = 1; dont do this you fucking with yo memory!!!
+			//head.next->data = 1; dont do this you messing with your memory!!!
 			if (itr > size){
 				return 0;
 			}
@@ -106,7 +106,7 @@ class LinkedList{
 		}
 		
 		int GetValue(int itr){
-			//head.next->data = 1; dont do this you fucking with yo memory!!!
+			//head.next->data = 1; dont do this you messing with your memory!!!
 			if (itr > size){
 				return 0;
 			}
