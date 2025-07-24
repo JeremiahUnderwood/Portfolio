@@ -1,0 +1,1 @@
+g++ -static-libstdc++ -static-libgcc -std=c++11 Main.cpp fVectors.cpp fVector3.cpp Triangle.cpp Triangle3D.cpp Quaternion.cpp Object.cpp -I D:/SDL/include -L D:/SDL/lib -lmingw32 -lSDL2main -lSDL2 -o main.exe
